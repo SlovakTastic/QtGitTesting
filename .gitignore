@@ -63,3 +63,4 @@ compile_commands.json
 # Ignore debug directories
 /debug/
 **/debug/
+/Desktop_x86_windows_msys_pe_64bit-Debug/
